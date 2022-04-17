@@ -11,3 +11,4 @@ Test 5
 ---
 let str = "Test str";
 ---
+[This is a link] google.com.ua
